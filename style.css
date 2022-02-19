@@ -31,3 +31,15 @@ section{
     background-repeat: no-repeat;
 
 }
+.dream_big{
+    margin-top: 60px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream_big_1{
+    width: 50%;
+}
+.dream_big_1 img{
+    width: 90%;
+}
